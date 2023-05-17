@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.collection</groupId>
 	<artifactId>collectionv1</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>collectionv1</name>
 	<description>Spring boot project for backend of collection api</description>
 	<properties>
